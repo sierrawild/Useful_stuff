@@ -4,6 +4,8 @@
 
 https://bleuje.com/randomanimations/
 
+## ADHD
+https://goblin.tools/
 
 ## AI
 
@@ -120,4 +122,6 @@ Pico 8
 https://arcade.makecode.com/
 Microsoft arcade maker
 
+https://pyga.me/docs/
+Pygame CE
 
